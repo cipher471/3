@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  font-family: Helvertica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url('../resources/pattern.jpeg');
+}
+
+.section {
+  font-family: Helvertica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.springgreen {
+  background-color: mediumspringgreen;
+}
+
+.lightcoral {
+  background-color: lightcoral;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.text {
+  font-family: Helvetica;
+}
+
+.bold {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
